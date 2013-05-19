@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+   
+<bk:BookStore xmlns:bk="http://www.bookstore.com/book#">
+<bk:Books>
+<bk:Book id="1">Time Machine</bk:Book> 
+</bk:Books>
+</bk:BookStore>
